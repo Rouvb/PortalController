@@ -1,0 +1,8 @@
+name: PortalController
+version: '${version}'
+main: net.rouvb.portalcontroller.PortalController
+
+commands:
+  portal:
+    description: Control Portal
+    usage: /<command>

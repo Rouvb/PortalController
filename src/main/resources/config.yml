@@ -1,0 +1,15 @@
+nether:
+  enable: true
+  message: "&cYou can't use nether portal."
+end:
+  enable: true
+  message: "&cYou can't use end portal."
+no-permission: "&cNo Permission."
+reload: "&aPortal Controller has been reloaded."
+help:
+  - "&7&m-----------------------------"
+  - "&b&lPortal Controller"
+  - "/portal nether"
+  - "/portal end"
+  - "/portal reload"
+  - "&7&m-----------------------------"
