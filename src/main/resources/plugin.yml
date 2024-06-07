@@ -2,6 +2,8 @@ name: PortalController
 version: '${version}'
 main: net.rouvb.portalcontroller.PortalController
 
+author: [Rouvb]
+
 commands:
   portal:
     description: Control Portal
